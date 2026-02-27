@@ -1,0 +1,1 @@
+SELECT pg_get_viewdef('init_state'::regclass, true);

@@ -1,0 +1,11 @@
+nohup: ignoring input
+
+> my-v0-project@0.1.0 start
+> next start
+
+   ▲ Next.js 16.0.10
+   - Local:         http://localhost:3000
+   - Network:       http://114.29.238.175:3000
+
+ ✓ Starting...
+ ✓ Ready in 371ms
